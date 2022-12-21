@@ -1,0 +1,16 @@
+POST http://localhost:3001/api/files
+Content-Type: application/json
+
+
+    {
+       
+            "name":"Eduardo",
+            "surname":"Gonzalez",
+            "age": 25,
+            "content": "Hola mundo",
+            "live": true
+               
+                        
+    }
+
+
